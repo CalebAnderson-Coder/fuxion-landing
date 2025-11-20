@@ -1,0 +1,5 @@
+{
+  "name": "Fuxion",
+  "description": "A pixel-perfect clone of the Fuxion enrollment landing page using React and Tailwind CSS.",
+  "requestFramePermissions": []
+}
